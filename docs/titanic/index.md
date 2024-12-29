@@ -1,4 +1,4 @@
-# Fascynująca Analiza Danych EDA Titanic: Eksploracja Domenowa
+# Analiza Danych EDA Titanic: Eksploracja Domenowa
 
 Zapraszamy do zapoznania się projektem, który przenosi nas w świat analizy danych Titanica za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które pokazują tę katastrofę pod względem analizy danych.
 

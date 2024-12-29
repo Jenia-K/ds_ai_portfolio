@@ -3,6 +3,9 @@ site_author: Jen
 site_description: >-
   Portfolio moich wspaniałych projektów z Data Science i AI!
 
+repo_name: jen/ds_ai_portfolio
+repo_url: https://github.com/jen/ds_ai_portfolio
+
 theme:
   name: material
   palette:
